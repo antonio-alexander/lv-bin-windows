@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2020-12-20 19:37:05" Modified_Date="2021-01-31 17:26:07" Creator="noobius" Comments="" ID="fdd139a23ee98b2b09eef010e33586bd">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2020-12-20 19:37:05" Modified_Date="2021-02-27 16:41:46" Creator="noobius" Comments="" ID="15242ee25acb3fd8ec7e0061a2edb045">
   <Library_General_Settings>
     <Package_File_Name>antonio_alexander_lib_lv_bin_windows</Package_File_Name>
-    <Library_Version>0.9.0.4</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\working\lv-bin-windows</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -17,7 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>antonio_alexander_lib_lv_bin &gt;=1.0.0.6</Additional_External_Dependencies>
+      <Additional_External_Dependencies>antonio_alexander_lib_lv_bin &gt;=1.1.0.10</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -33,8 +33,9 @@
       <Description/>
       <Copyright/>
       <Packager>Antonio Alexander</Packager>
-      <URL/>
-      <Release_Notes/>
+      <URL>http://github.com/antonio-alexander/lv-bin-windows</URL>
+      <Release_Notes>- Initial release
+- Added api to confirm whether or not you are an admin</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -215,7 +216,7 @@
         <Path>..\working\lv-bin-windows\v1</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CFC2D6BA4FC5214B2A37C7F16348329</GUID>
+      <GUID>C0E6527EE483FB22BF43CBF1F5F4247A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -264,7 +265,7 @@
         <Path>..\working\lv-bin-windows\public\api\v1\run_as_admin.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>52D31D4228B768985DC3FDEDDBBFE152</GUID>
+      <GUID>5181901C7A5497A9066CAF065CD2401F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

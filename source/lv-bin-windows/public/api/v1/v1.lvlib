@@ -28,6 +28,7 @@
 	<Item Name="run_as_admin.vi" Type="VI" URL="../run_as_admin.vi"/>
 	<Item Name="run_file.vi" Type="VI" URL="../run_file.vi"/>
 	<Item Name="run_script-as_admin.vi" Type="VI" URL="../run_script-as_admin.vi"/>
+	<Item Name="running_as_admin.vi" Type="VI" URL="../running_as_admin.vi"/>
 	<Item Name="tasklist_kill.vi" Type="VI" URL="../tasklist_kill.vi"/>
 	<Item Name="tasklist_read.vi" Type="VI" URL="../tasklist_read.vi"/>
 	<Item Name="tasklist_wait.vi" Type="VI" URL="../tasklist_wait.vi"/>
